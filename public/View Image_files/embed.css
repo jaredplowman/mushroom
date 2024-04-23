@@ -1,0 +1,42 @@
+
+
+#embed {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	width: width;
+}
+
+#embed a {
+	clear: both;
+	display: block;
+	color: #fff;
+	text-decoration: none;
+}
+
+#embed_link {
+	background-color: #fff;
+	width: 400px;
+	height: 600px;
+}
+
+#credit {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	position: absolute;	
+	bottom: 10px;
+	right: 10px;
+}
+
+#credit a {
+	clear: both;
+	display: block;
+	color: #fff;
+	text-decoration: none;
+}
+
+.navigator #credit, .navigator #embed {
+    display: none;
+}
